@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm After232, an undergraduate engineering student. I'm a beginner at programming but I'm aiming to get better so I can incorporate it into my projects!
+I'm After232. I'm a beginner at programming but I'm aiming to get better so I can incorporate it into my projects!
 
 <!--
 **After232/after232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
