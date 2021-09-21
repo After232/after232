@@ -1,12 +1,14 @@
 ### Hello!
 
 - 👋 Hey, I'm @After232
-- 🛠️ I'm an engineering undergraduate
-- 🌱 I'm currently learning C++
-- 😄 Pronouns: anything you want :)
+
 
 <!--
 **After232/after232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🛠️ I'm an engineering undergraduate
+- 🌱 I'm currently learning C++
+- 😄 Pronouns: anything you want :)
 
 Here are some ideas to get you started:
 
