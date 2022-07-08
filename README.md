@@ -1,8 +1,4 @@
-### Hello!
-
-- 👋 Hey, I'm @After232
-
-
+### 👋 Hey, I'm @After232 
 <!--
 **After232/after232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
